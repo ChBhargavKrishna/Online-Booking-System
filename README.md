@@ -5,9 +5,9 @@
 
 ## 🔑 Key Features
 
-| Login Page | Register Page | Admin Dashboard Page | User Dashboard Page | Help/Contact Page |
-| -------| -------| -------| -------| -------|
-| ![]()| ![]() |    ![]()  |  ![]()  |  ![]()  |
+| Login Page | Register Page | Admin Dashboard Page | User Dashboard Page |
+| -------| -------| -------| -------|
+| ![]() | ![]() | ![]() | ![]() |
 
 -----------------------------------------------
 
