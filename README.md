@@ -77,7 +77,7 @@ In this two modules are present They are
 - [Tech Stack](#technologies-used-or-tech-stack)
 
 ## 👤 Author
-- **Name:** Bhargav  
+- **Name:** Chiruvolu Bhargav Krishna
 - **GitHub:** [@Bhargav2662D](https://github.com/Bhargav2662D)
 
 ## 📄 License
