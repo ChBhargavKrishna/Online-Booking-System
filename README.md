@@ -52,11 +52,11 @@ In this two modules are present They are
 3. Import the project as a Maven Project.
 4. Make sure Oracle 10g is installed and running.
 5. Update the application.properties with your Oracle DB credentials:
-   | Tools | Version |
-| -------| -------|
-    | spring.datasource.url=jdbc:oracle:thin:@localhost:1521:orcl
-      spring.datasource.username=your_username
-      spring.datasource.password=your_password |
+| Edit Your Oracle DB details |
+| -------|
+| spring.datasource.url=jdbc:oracle:thin:@localhost:1521:orcl
+  spring.datasource.username=your_username
+  spring.datasource.password=your_password |
 7. Run the project on SpringBoot App i.e http://localhost:8086/
 
 # Technologies Used or Tech Stack:
