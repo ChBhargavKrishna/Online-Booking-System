@@ -85,9 +85,9 @@ In this two modules are present They are
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Thank You
-
 ![Thank You](https://img.shields.io/badge/Thank%20You-🙏-green?style=for-the-badge)
-
 Thank you for visiting this project!  
+
 We appreciate your time and interest in this project.
+
 If you found it helpful, feel free to ⭐ the repository or contribute!
