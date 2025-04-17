@@ -1,62 +1,68 @@
-# 🧳 Online Booking System - Bus | Flight | Car Services
+# Online Booking System Project
+![](https://github.com/Bhargav2662D/Doctor-Appointment-System/blob/my-new-branch/Screenshots/Screenshot1.png)
 
-Online Booking System is a full-stack web application built using Spring Boot that enables users to search, book, and manage transportation services such as buses, flights, and cars. A full-stack web application that enables users to register, log in, and book services such as **buses**, **flights**, and **cars**. The system also provides a separate **admin module** to manage services and monitor all activities. This project is built using **Java**, **Spring Boot**, **JSP**, and **Oracle 10g**, and follows a modular and secure architecture.
+[Online Booking System](https://github.com/Bhargav2662D/Doctor-Appointment-System/tree/my-new-branch) is a Full Stack web responsive project is made by using SpringBoot, Javascript, Css Jsp.This Project is about the booking Service of Car, Flight, Bus seats to travel from one place to another and in this two modules are present i.e Admin and User Modules.Each Module has different work in this project. Best Services also mentioned and taking feedbacks and 24/7 contact support also available.
 
----
+## Features
 
-## 🛠️ Tech Stack
+| Admin Dashboard Page | User Dashboard Page | Login Page | Register Page | Help/Contact Page |
+| -------| -------| -------| -------| -------|
+| ![](https://github.com/Bhargav2662D/Doctor-Appointment-System/blob/my-new-branch/Screenshots/Screenshot2.png)| ![](https://github.com/Bhargav2662D/Doctor-Appointment-System/blob/my-new-branch/Screenshots/Screenshot3.png) |    ![](https://github.com/Bhargav2662D/Doctor-Appointment-System/blob/my-new-branch/Screenshots/Screenshot4.png)  |
 
-- **Backend**: Java, Spring Boot
-- **Frontend**: JSP, HTML, CSS
-- **Database**: Oracle 10g
-- **Web Server**: Apache Tomcat
-- **Tools**: Spring Tool Suite (STS), Postman (for API testing)
+-----------------------------------------------
 
----
+## Key Features
+In this two modules are present They are
+1. Admin Module
+    - Login Aunthentication(No registration).
+    - CRUD Operations For Bus, Flight and Car.
+    - View Payment Details of User Total Booked count including Bus, Flight and Car.
+    - Fetching all complete details of registered Users.
+    - Admin has only one credentials that should be inserted into table by below command with that details only Admin can make operations of above all.
+      | Insert Command | Description | 
+      | -------| -------|
+      | `INSERT INTO login VALUES('admin12@login.com', 'admin12');`| Inserts admin credentials into the database |
+      | `COMMIT;`| Saves the changes (shows `Commit complete`) |
+      
+## Admin Module Screenshots
 
-## 🧩 Project Modules
+| ![](https://github.com/Bhargav2662D/Doctor-Appointment-System/blob/my-new-branch/Screenshots/Screenshot1.png) | ![](https://github.com/Bhargav2662D/Doctor-Appointment-System/blob/my-new-branch/Screenshots/Screenshot2.png)| ![](https://github.com/Bhargav2662D/Doctor-Appointment-System/blob/my-new-branch/Screenshots/Screenshot3.png)| ![](https://github.com/Bhargav2662D/Doctor-Appointment-System/blob/my-new-branch/Screenshots/Screenshot4.png)|
+|--------------| --------------|   --------------|  --------------|    
+|  ![](https://github.com/Bhargav2662D/Doctor-Appointment-System/blob/my-new-branch/Screenshots/Screenshot5.png)| ![](https://github.com/Bhargav2662D/Doctor-Appointment-System/blob/my-new-branch/Screenshots/Screenshot6.png)| ![](https://github.com/Bhargav2662D/Doctor-Appointment-System/blob/my-new-branch/Screenshots/Screenshot7.png)| ![](https://github.com/Bhargav2662D/Doctor-Appointment-System/blob/my-new-branch/Screenshots/Screenshot8.png)|
 
-### 👑 Admin Module
+2. User Module
+    - User Should Register first and Login with email and password credentials and have user profile that can be edited.
+    - Booking implementations for Bus, Flight and Car Based on his Requirement.
+    - User can search for Bus and Flight seats Not allowed past dates in travel date only Acceptable present or future dates.
+    - User can add Card Details for better experience. Each user can ad one card that is saved in database and it is saved card by this card payment can be done.
+    - Payment Operation for booked seat (either Bus or Flight) or booked Car.Not a real Payment gateway just to save in database.
+    - User can cancel his booking before the travel or depart date. Also for Booked cars can cancel for partial cancellation and Amount updated or Full cancellation also available.
+    - User can change his/her password and View Booking History of his/her booking for Bus, Flight and Car.
+    - Best Services also mentioned and taking feedbacks and 24/7 contact support also available by the help page. 
+    
+      
+## User Module Screenshots
 
-- 🔐 **Login Only** – Admin credentials are pre-inserted (`admin12@login.com` / `admin12`)
-- 🧾 **CRUD Operations** – Add, update, delete, and view:
-  - Bus details (20 seats per bus)
-  - Flight details (20 seats per flight)
-  - Car details
-- 📊 **Admin Dashboard** – Displays:
-  - Total registered users
-  - Booking statistics (booked bus/flight seats, booked/active/available cars)
-  - Latest 6 payments and recent user registrations
-  - Full booking/payment history access
-- ❌ No registration for admin – access only if credentials match
+| ![](https://github.com/Bhargav2662D/Doctor-Appointment-System/blob/my-new-branch/Screenshots/Screenshot1.png) | ![](https://github.com/Bhargav2662D/Doctor-Appointment-System/blob/my-new-branch/Screenshots/Screenshot2.png)| ![](https://github.com/Bhargav2662D/Doctor-Appointment-System/blob/my-new-branch/Screenshots/Screenshot3.png)| ![](https://github.com/Bhargav2662D/Doctor-Appointment-System/blob/my-new-branch/Screenshots/Screenshot4.png)|
+|--------------| --------------|   --------------|  --------------|    
+|  ![](https://github.com/Bhargav2662D/Doctor-Appointment-System/blob/my-new-branch/Screenshots/Screenshot5.png)| ![](https://github.com/Bhargav2662D/Doctor-Appointment-System/blob/my-new-branch/Screenshots/Screenshot6.png)| ![](https://github.com/Bhargav2662D/Doctor-Appointment-System/blob/my-new-branch/Screenshots/Screenshot7.png)| ![](https://github.com/Bhargav2662D/Doctor-Appointment-System/blob/my-new-branch/Screenshots/Screenshot8.png)|
 
-### 🙋‍♂️ User Module
+# Get Started
+1. Download the project.
+2. Open Spring Tool Suite (STS).
+3. Import the project as a Maven Project.
+4. Make sure Oracle 10g is installed and running.
+5. Update the application.properties with your Oracle DB credentials:
+    | spring.datasource.url=jdbc:oracle:thin:@localhost:1521:orcl
+      spring.datasource.username=your_username
+      spring.datasource.password=your_password |
+6. Run the project on SpringBoot App i.e http://localhost:8086/
 
-- ✅ **User Registration and Login**
-- 🧑‍💼 **User Dashboard** – Personalized view with name displayed
-- ✏️ **Profile Management** – View and edit personal details
-- 🔒 **Change Password**
-- 📞 **Help / Contact Page** – FAQs, support info, terms & conditions
-- 📖 **Booking History** – View all bookings (bus, flight, car)
-- 🚍 **Bus Seat Booking**
-  - Seat selection (A1–A10, B1–B10)
-  - Multi-seat support
-  - Passenger details stored
-- ✈️ **Flight Seat Booking**
-  - Auto seat allocation (A1–A5, B1–B5, C1–C10)
-  - Seat count selected before booking
-- 🚗 **Car Rental Booking**
-  - Enter pickup/drop-off date, location, time
-  - Full-day or half-day pricing
-  - Cars filtered by availability
-- 💳 **Card & Payment System**
-  - Save dummy card details
-  - Confirm and proceed with booking
-  - Single card per user (can delete and re-add)
-- ❌ **Cancellation System**
-  - Partial/full booking cancellation
-  - Amount and seat updates in database
-  - Car rental cancellation restrictions (before pickup or within 1 day)
-  - Status updated accordingly
-
----
+# Technologies Used or Tech Stack:
+Spring Tool Suite: 	`4.20.0`
+Java : `21`
+Oracle Version: 		`10g Enterprise Edition Release 10.2.0.1.0`
+Frontend : `JSP`
+Framework : `SpringBoot`
+Dependency Management : `Maven`
+Tomcat Server: `10.1`
