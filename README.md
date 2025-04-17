@@ -13,7 +13,7 @@
 
 ## Key Features
 In this two modules are present They are
-1. Admin Module
+1. **Admin Module**
  - Login Aunthentication(No registration).
  - CRUD Operations For Bus, Flight and Car.
  - View Payment Details of User Total Booked count including Bus, Flight and Car.
@@ -30,7 +30,7 @@ In this two modules are present They are
 |--------------| --------------|   --------------|  --------------|    
 |  ![](https://github.com/Bhargav2662D/Doctor-Appointment-System/blob/my-new-branch/Screenshots/Screenshot5.png)| ![](https://github.com/Bhargav2662D/Doctor-Appointment-System/blob/my-new-branch/Screenshots/Screenshot6.png)| ![](https://github.com/Bhargav2662D/Doctor-Appointment-System/blob/my-new-branch/Screenshots/Screenshot7.png)| ![](https://github.com/Bhargav2662D/Doctor-Appointment-System/blob/my-new-branch/Screenshots/Screenshot8.png)|
 
-2. User Module
+2. **User Module**
  - User Should Register first and Login with email and password credentials and have user profile that can be edited.
  - Booking implementations for Bus, Flight and Car Based on his Requirement.
  - User can search for Bus and Flight seats Not allowed past dates in travel date only Acceptable present or future dates.
@@ -52,10 +52,12 @@ In this two modules are present They are
 3. Import the project as a Maven Project.
 4. Make sure Oracle 10g is installed and running.
 5. Update the application.properties with your Oracle DB credentials:
+   | Tools | Version |
+| -------| -------|
     | spring.datasource.url=jdbc:oracle:thin:@localhost:1521:orcl
       spring.datasource.username=your_username
       spring.datasource.password=your_password |
-6. Run the project on SpringBoot App i.e http://localhost:8086/
+7. Run the project on SpringBoot App i.e http://localhost:8086/
 
 # Technologies Used or Tech Stack:
 | Tools | Version | 
