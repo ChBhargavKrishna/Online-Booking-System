@@ -35,7 +35,7 @@ In this two modules are present They are
  - Booking implementations for Bus, Flight and Car Based on his Requirement.
  - User can search for Bus and Flight seats Not allowed past dates in travel date only Acceptable present or future dates.
  - User can add Card Details for better experience. Each user can add one card that is saved in database and it is saved card by this card payment can be done.
- - Payment Operation for booked seat (either Bus or Flight) or booked Car.Not a real payment gateway; just saves data in the database.
+ - Payment Operation for booked seat (either Bus or Flight) or booked Car. Not a real payment gateway; just saves data in the database.
  - User can cancel his booking before the travel or depart date. Also for Booked cars can cancel for partial cancellation and Amount updated or Full cancellation also available.
  - User can change his/her password and View Booking History of his/her booking for Bus, Flight and Car.
  - Best Services also mentioned and taking feedbacks and 24/7 contact support also available by the help page. 
@@ -70,11 +70,11 @@ In this two modules are present They are
 
 - [Project Overview](#online-booking-system-project)
 - [Features](#features)
-- [Admin Module](#admin-module)
-- [User Module](#user-module)
+- [Admin Module](#adminmodule)
+- [User Module](#usermodule)
 - [Screenshots](#admin-module-screenshots)
 - [Getting Started](#get-started)
-- [Tech Stack](#technologies-used-or-tech-stack)
+- [Tech Stack](#tech-stack)
 
 ## 👤 Author
 - **Name:** Chiruvolu Bhargav Krishna
