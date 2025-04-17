@@ -1,7 +1,7 @@
 # Online Booking System Project
 ![](https://github.com/Bhargav2662D/Doctor-Appointment-System/blob/my-new-branch/Screenshots/Screenshot1.png)
 
-[Online Booking System](https://github.com/Bhargav2662D/Doctor-Appointment-System/tree/my-new-branch) is a Full Stack web responsive project is made by using SpringBoot, Javascript, Css Jsp.This Project is about the booking Service of Car, Flight, Bus seats to travel from one place to another and in this two modules are present i.e Admin and User Modules.Each Module has different work in this project. Best Services also mentioned and taking feedbacks and 24/7 contact support also available.
+[Online Booking System](https://github.com/Bhargav2662D/Doctor-Appointment-System/tree/my-new-branch) is a Full Stack web responsive project is made by using SpringBoot, Javascript, Css Jsp.This is a full-stack, responsive web application built with Spring Boot, JSP, and Oracle DB that allows users to book car, flight, and bus tickets. It features two modules — Admin and User — each with its own functionalities and access control. This project has two modules i.e Admin and User Modules.Each Module has different work in this project. Best Services also mentioned and taking feedbacks and 24/7 contact support also available.
 
 ## Features
 
@@ -14,7 +14,7 @@
 ## Key Features
 In this two modules are present They are
 1. **Admin Module**
- - Login Aunthentication(No registration).
+ - Login Authentication (No registration).
  - CRUD Operations For Bus, Flight and Car.
  - View Payment Details of User Total Booked count including Bus, Flight and Car.
  - Fetching all complete details of registered Users.
@@ -34,8 +34,8 @@ In this two modules are present They are
  - User Should Register first and Login with email and password credentials and have user profile that can be edited.
  - Booking implementations for Bus, Flight and Car Based on his Requirement.
  - User can search for Bus and Flight seats Not allowed past dates in travel date only Acceptable present or future dates.
- - User can add Card Details for better experience. Each user can ad one card that is saved in database and it is saved card by this card payment can be done.
- - Payment Operation for booked seat (either Bus or Flight) or booked Car.Not a real Payment gateway just to save in database.
+ - User can add Card Details for better experience. Each user can add one card that is saved in database and it is saved card by this card payment can be done.
+ - Payment Operation for booked seat (either Bus or Flight) or booked Car.Not a real payment gateway; just saves data in the database.
  - User can cancel his booking before the travel or depart date. Also for Booked cars can cancel for partial cancellation and Amount updated or Full cancellation also available.
  - User can change his/her password and View Booking History of his/her booking for Bus, Flight and Car.
  - Best Services also mentioned and taking feedbacks and 24/7 contact support also available by the help page. 
@@ -55,17 +55,30 @@ In this two modules are present They are
    | **Edit your Oracle DB details** |
    |-----------------------------|
    | `spring.datasource.url=jdbc:oracle:thin:@localhost:1521:orcl` <br> `spring.datasource.username=your_username` <br> `spring.datasource.password=your_password` |
-6. Run the project as a **Spring Boot App**:  
-   Open your browser and go to: [http://localhost:8086/](http://localhost:8086/)
+6. Run the project on SpringBoot App i.e http://localhost:8086/ 
 
+### 💻 Tech Stack
 
-# Technologies Used or Tech Stack:
-| Tools | Version | 
-| -------| -------|
-| Spring Tool Suite| `4.20.0`|
-| Java| `21`|
-| Oracle Version| `10g Enterprise Edition Release 10.2.0.1.0`|
-| Frontend| `JSP`|
-| Framework| `Spring Boot`|
-| Tomcat Server| `10.1`|
-| Dependency Management | `Maven`|
+- **Backend:** Spring Boot & Java 21.
+- **Database:** Oracle 10g Enterprise Edition Release 10.2.0.1.0.
+- **Dependency Management:** Maven.
+- **Frontend:** JSP, CSS, JavaScript.
+- **Server:** Tomcat 10.1
+- **IDE:** Spring Tool Suite 4.20.0
+
+## 📚 Table of Contents
+
+- [Project Overview](#online-booking-system-project)
+- [Features](#features)
+- [Admin Module](#admin-module)
+- [User Module](#user-module)
+- [Screenshots](#admin-module-screenshots)
+- [Getting Started](#get-started)
+- [Tech Stack](#technologies-used-or-tech-stack)
+
+## 👤 Author
+- **Name:** Bhargav  
+- **GitHub:** [@Bhargav2662D](https://github.com/Bhargav2662D)
+
+## 📄 License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
