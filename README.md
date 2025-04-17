@@ -1,7 +1,7 @@
 # Online Booking System Project
 ![](https://github.com/Bhargav2662D/Doctor-Appointment-System/blob/my-new-branch/Screenshots/Screenshot1.png)
 
-[Online Booking System](https://github.com/Bhargav2662D/Doctor-Appointment-System/tree/my-new-branch) is a Full Stack web responsive project is made by using SpringBoot, Javascript, Css Jsp.This is a full-stack, responsive web application built with Spring Boot, JSP, and Oracle DB that allows users to book car, flight, and bus tickets. It features two modules — Admin and User — each with its own functionalities and access control. This project has two modules i.e Admin and User Modules.Each Module has different work in this project. Best Services also mentioned and taking feedbacks and 24/7 contact support also available.
+[Online Booking System](https://github.com/Bhargav2662D/Doctor-Appointment-System/tree/my-new-branch) is a Full Stack web responsive project is made by using SpringBoot, Javascript, Css Jsp.This is a full-stack, responsive web application built with Spring Boot, JSP, and Oracle DB that allows users to book car, flight, and bus tickets. It features two modules — Admin and User — each with its own functionalities and access control. This project has two modules i.e Admin and User Modules. Each module has distinct responsibilities in the project. Best Services also mentioned and taking feedbacks and 24/7 contact support also available.
 
 ## Features
 
@@ -31,9 +31,9 @@ In this two modules are present They are
 |  ![](https://github.com/Bhargav2662D/Doctor-Appointment-System/blob/my-new-branch/Screenshots/Screenshot5.png)| ![](https://github.com/Bhargav2662D/Doctor-Appointment-System/blob/my-new-branch/Screenshots/Screenshot6.png)| ![](https://github.com/Bhargav2662D/Doctor-Appointment-System/blob/my-new-branch/Screenshots/Screenshot7.png)| ![](https://github.com/Bhargav2662D/Doctor-Appointment-System/blob/my-new-branch/Screenshots/Screenshot8.png)|
 
 2. **User Module**
- - User Should Register first and Login with email and password credentials and have user profile that can be edited.
+ - Users must first register and then log in with email and password credentials and have user profile that can be edited.
  - Booking implementations for Bus, Flight and Car Based on his Requirement.
- - User can search for Bus and Flight seats Not allowed past dates in travel date only Acceptable present or future dates.
+ - User can search for Bus and Flight seats Past travel dates are not allowed; only present or future dates can be selected.
  - User can add Card Details for better experience. Each user can add one card that is saved in database and it is saved card by this card payment can be done.
  - Payment Operation for booked seat (either Bus or Flight) or booked Car. Not a real payment gateway; just saves data in the database.
  - User can cancel his booking before the travel or depart date. Also for Booked cars can cancel for partial cancellation and Amount updated or Full cancellation also available.
@@ -70,8 +70,8 @@ In this two modules are present They are
 
 - [Project Overview](#online-booking-system-project)
 - [Features](#features)
-- [Admin Module](#adminmodule)
-- [User Module](#usermodule)
+- [Admin Module](#admin-module)
+- [User Module](#user-module)
 - [Screenshots](#admin-module-screenshots)
 - [Getting Started](#get-started)
 - [Tech Stack](#tech-stack)
