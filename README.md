@@ -3,7 +3,7 @@
 
 [Online Booking System](https://github.com/Bhargav2662D/Doctor-Appointment-System/tree/my-new-branch) is a Full Stack web responsive project is made by using SpringBoot, Javascript, Css Jsp.This is a full-stack, responsive web application built with Spring Boot, JSP, and Oracle DB that allows users to book car, flight, and bus tickets. It features two modules — Admin and User — each with its own functionalities and access control. This project has two modules i.e Admin and User Modules. Each module has distinct responsibilities in the project. Best Services also mentioned and taking feedbacks and 24/7 contact support also available.
 
-## Features
+## 🔑 Key Features
 
 | Login Page | Register Page | Admin Dashboard Page | User Dashboard Page | Help/Contact Page |
 | -------| -------| -------| -------| -------|
@@ -11,7 +11,7 @@
 
 -----------------------------------------------
 
-## Key Features
+## 👥 Module Features
 In this two modules are present They are
 1. **Admin Module**
  - Login Authentication (No registration).
@@ -69,8 +69,8 @@ In this two modules are present They are
 ## 📚 Table of Contents
 
 - [📝 Project Overview](#online-booking-system-project)
-- [📌 Features](#features)
-- [⚙️ Key Features](#key-features)
+- [📌 Key Features](#-key-features)
+- [⚙️ Module Features](#-module-features)
 - [📸 Screenshots](#-admin-module-screenshots)
 - [🚀 Getting Started](#-get-started)
 - [💻 Tech Stack](#-tech-stack)
