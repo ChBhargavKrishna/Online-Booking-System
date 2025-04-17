@@ -13,7 +13,7 @@
 
 ## 👥 Module Features
 In this two modules are present They are
-1. **Admin Module**
+1. **👨‍💼 Admin Module**
  - Login Authentication (No registration).
  - CRUD Operations For Bus, Flight and Car.
  - View Payment Details of User Total Booked count including Bus, Flight and Car.
@@ -30,7 +30,7 @@ In this two modules are present They are
 |--------------| --------------|   --------------|  --------------|    
 |  ![](https://github.com/Bhargav2662D/Doctor-Appointment-System/blob/my-new-branch/Screenshots/Screenshot5.png)| ![](https://github.com/Bhargav2662D/Doctor-Appointment-System/blob/my-new-branch/Screenshots/Screenshot6.png)| ![](https://github.com/Bhargav2662D/Doctor-Appointment-System/blob/my-new-branch/Screenshots/Screenshot7.png)| ![](https://github.com/Bhargav2662D/Doctor-Appointment-System/blob/my-new-branch/Screenshots/Screenshot8.png)|
 
-2. **User Module**
+2. **🙋 User Module**
  - Users must first register and then log in with email and password credentials and have user profile that can be edited.
  - Booking implementations for Bus, Flight and Car Based on his Requirement.
  - User can search for Bus and Flight seats Past travel dates are not allowed; only present or future dates can be selected.
