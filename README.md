@@ -25,7 +25,7 @@ In this two modules are present They are
       | `INSERT INTO login VALUES('admin12@login.com', 'admin12');`| Inserts admin credentials into the database |
       | `COMMIT;`| Saves the changes (shows `Commit complete`) |
 
-      ## Admin Module Screenshots
+      ## 📸 Admin Module Screenshots
 | ![](https://github.com/Bhargav2662D/Doctor-Appointment-System/blob/my-new-branch/Screenshots/Screenshot1.png) | ![](https://github.com/Bhargav2662D/Doctor-Appointment-System/blob/my-new-branch/Screenshots/Screenshot2.png)| ![](https://github.com/Bhargav2662D/Doctor-Appointment-System/blob/my-new-branch/Screenshots/Screenshot3.png)| ![](https://github.com/Bhargav2662D/Doctor-Appointment-System/blob/my-new-branch/Screenshots/Screenshot4.png)|
 |--------------| --------------|   --------------|  --------------|    
 |  ![](https://github.com/Bhargav2662D/Doctor-Appointment-System/blob/my-new-branch/Screenshots/Screenshot5.png)| ![](https://github.com/Bhargav2662D/Doctor-Appointment-System/blob/my-new-branch/Screenshots/Screenshot6.png)| ![](https://github.com/Bhargav2662D/Doctor-Appointment-System/blob/my-new-branch/Screenshots/Screenshot7.png)| ![](https://github.com/Bhargav2662D/Doctor-Appointment-System/blob/my-new-branch/Screenshots/Screenshot8.png)|
@@ -40,12 +40,12 @@ In this two modules are present They are
  - User can change his/her password and View Booking History of his/her booking for Bus, Flight and Car.
  - Best Services also mentioned and taking feedbacks and 24/7 contact support also available by the help page. 
     
-     ## User Module Screenshots
+     ## 📸 User Module Screenshots
 | ![](https://github.com/Bhargav2662D/Doctor-Appointment-System/blob/my-new-branch/Screenshots/Screenshot1.png) | ![](https://github.com/Bhargav2662D/Doctor-Appointment-System/blob/my-new-branch/Screenshots/Screenshot2.png)| ![](https://github.com/Bhargav2662D/Doctor-Appointment-System/blob/my-new-branch/Screenshots/Screenshot3.png)| ![](https://github.com/Bhargav2662D/Doctor-Appointment-System/blob/my-new-branch/Screenshots/Screenshot4.png)|
 |--------------| --------------|   --------------|  --------------|    
 |  ![](https://github.com/Bhargav2662D/Doctor-Appointment-System/blob/my-new-branch/Screenshots/Screenshot5.png)| ![](https://github.com/Bhargav2662D/Doctor-Appointment-System/blob/my-new-branch/Screenshots/Screenshot6.png)| ![](https://github.com/Bhargav2662D/Doctor-Appointment-System/blob/my-new-branch/Screenshots/Screenshot7.png)| ![](https://github.com/Bhargav2662D/Doctor-Appointment-System/blob/my-new-branch/Screenshots/Screenshot8.png)|
 
-# Get Started
+# 🚀 Get Started
 1. Download the project.  
 2. Open **Spring Tool Suite (STS)**.  
 3. Import the project as a **Maven Project**.  
@@ -68,13 +68,14 @@ In this two modules are present They are
 
 ## 📚 Table of Contents
 
-- [Project Overview](#online-booking-system-project)
-- [Features](#features)
-- [Admin Module](#admin-module)
-- [User Module](#user-module)
-- [Screenshots](#admin-module-screenshots)
-- [Getting Started](#get-started)
-- [Tech Stack](#techstack)
+- [📝 Project Overview](#online-booking-system-project)
+- [📌 Features](#features)
+- [⚙️ Key Features](#key-features)
+- [📸 Screenshots](#-admin-module-screenshots)
+- [🚀 Getting Started](#-get-started)
+- [💻 Tech Stack](#-tech-stack)
+- [👤 Author](#-author)
+- [📄 License](#-license)
 
 ## 👤 Author
 - **Name:** Chiruvolu Bhargav Krishna
