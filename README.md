@@ -26,9 +26,9 @@ In this two modules are present They are
       | `COMMIT;`| Saves the changes (shows `Commit complete`) |
 
       ## 📸 Admin Module Screenshots
-| ![]() | ![]()| ![]()| ![]()|
-|--------------| --------------|   --------------|  --------------|    
-|  ![]()| ![]()| ![]()| ![]()|
+| ![]() | ![]()| ![]()| 
+|--------------| --------------|   --------------|     
+|  ![]()| ![]()| 
 
 2. **🙋 User Module**
  - Users must first register and then log in with email and password credentials and have user profile that can be edited.
@@ -42,7 +42,7 @@ In this two modules are present They are
     
      ## 📸 User Module Screenshots
 | ![]() | ![]()| ![]()| ![]()|
-|--------------| --------------|   --------------|  --------------|    
+|--------------| --------------|   --------------|   
 |  ![]()| ![]()| ![]()| ![]()|
 
 # 🚀 Get Started
@@ -85,7 +85,7 @@ In this two modules are present They are
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Thank You
-![Thank You for](https://img.shields.io/badge/Thank%20You-🙏-green?style=for-the-badge)
+![Thank You](https://img.shields.io/badge/Thank%20You-🙏-green?style=for-the-badge)
 
 We appreciate your time and interest in this project.
 
