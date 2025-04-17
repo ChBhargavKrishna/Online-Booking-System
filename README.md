@@ -74,7 +74,7 @@ In this two modules are present They are
 - [User Module](#user-module)
 - [Screenshots](#admin-module-screenshots)
 - [Getting Started](#get-started)
-- [Tech Stack](#tech-stack)
+- [Tech Stack](#techstack)
 
 ## 👤 Author
 - **Name:** Chiruvolu Bhargav Krishna
