@@ -46,15 +46,18 @@ In this two modules are present They are
 |  ![](https://github.com/Bhargav2662D/Doctor-Appointment-System/blob/my-new-branch/Screenshots/Screenshot5.png)| ![](https://github.com/Bhargav2662D/Doctor-Appointment-System/blob/my-new-branch/Screenshots/Screenshot6.png)| ![](https://github.com/Bhargav2662D/Doctor-Appointment-System/blob/my-new-branch/Screenshots/Screenshot7.png)| ![](https://github.com/Bhargav2662D/Doctor-Appointment-System/blob/my-new-branch/Screenshots/Screenshot8.png)|
 
 # Get Started
-1. Download the project.
-2. Open Spring Tool Suite (STS).
-3. Import the project as a Maven Project.
-4. Make sure Oracle 10g is installed and running.
-5. Update the application.properties with your Oracle DB credentials
-| Edit your Oracle DB details |
-|-----------------------------|
-| `spring.datasource.url=jdbc:oracle:thin:@localhost:1521:orcl` <br> `spring.datasource.username=your_username` <br> `spring.datasource.password=your_password` |
-7. Run the project on SpringBoot App i.e http://localhost:8086/
+1. Download the project.  
+2. Open **Spring Tool Suite (STS)**.  
+3. Import the project as a **Maven Project**.  
+4. Make sure **Oracle 10g** is installed and running.  
+5. Update the `application.properties` file with your Oracle DB credentials:
+
+   | **Edit your Oracle DB details** |
+   |-----------------------------|
+   | `spring.datasource.url=jdbc:oracle:thin:@localhost:1521:orcl` <br> `spring.datasource.username=your_username` <br> `spring.datasource.password=your_password` |
+6. Run the project as a **Spring Boot App**:  
+   Open your browser and go to: [http://localhost:8086/](http://localhost:8086/)
+
 
 # Technologies Used or Tech Stack:
 | Tools | Version | 
