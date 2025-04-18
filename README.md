@@ -1,7 +1,7 @@
 # 🌍 Online Booking System Project
 ![]()
 
-[Online Booking System](https://github.com/Bhargav2662D/Online-Booking-System) is a Full Stack web responsive project is made by using SpringBoot, Javascript, Css Jsp.This is a full-stack, responsive web application built with Spring Boot, JSP, and Oracle DB that allows users to book car, flight, and bus tickets. It features two modules — Admin and User — each with its own functionalities and access control. This project has two modules i.e Admin and User Modules. Each module has distinct responsibilities in the project. Best Services also mentioned and taking feedbacks and 24/7 contact support also available.
+[Online Booking System](https://github.com/ChBhargavKrishna/Online-Booking-System) is a Full Stack web responsive project is made by using SpringBoot, Javascript, Css Jsp.This is a full-stack, responsive web application built with Spring Boot, JSP, and Oracle DB that allows users to book car, flight, and bus tickets. It features two modules — Admin and User — each with its own functionalities and access control. This project has two modules i.e Admin and User Modules. Each module has distinct responsibilities in the project. Best Services also mentioned and taking feedbacks and 24/7 contact support also available.
 
 ## 🔑 Key Features
 
@@ -79,7 +79,7 @@ In this two modules are present They are
 
 ## 👤 Author
 - **Name:** Chiruvolu Bhargav Krishna
-- **GitHub:** [@Bhargav2662D](https://github.com/Bhargav2662D)
+- **GitHub:** [@ChBhargavKrishna](https://github.com/ChBhargavKrishna)
 
 ## 📄 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
