@@ -26,9 +26,9 @@ In this two modules are present They are
       | `COMMIT;`| Saves the changes (shows `Commit complete`) |
 
       ## 📸 Admin Module Screenshots
-| ![](https://github.com/ChBhargavKrishna/Online-Booking-System/blob/new-branch/Screenshots/Screenshot-6.png) | ![](https://github.com/ChBhargavKrishna/Online-Booking-System/blob/new-branch/Screenshots/Screenshot-7.png)| ![](https://github.com/ChBhargavKrishna/Online-Booking-System/blob/new-branch/Screenshots/Screenshot-8.png)| 
+| ![](https://github.com/ChBhargavKrishna/Online-Booking-System/blob/new-branch/Screenshots/Screenshot-4.png) | ![](https://github.com/ChBhargavKrishna/Online-Booking-System/blob/new-branch/Screenshots/Screenshot-6.png)| ![](https://github.com/ChBhargavKrishna/Online-Booking-System/blob/new-branch/Screenshots/Screenshot-7.png)| 
 |--------------| --------------|   --------------|     
-|  ![](https://github.com/ChBhargavKrishna/Online-Booking-System/blob/new-branch/Screenshots/Screenshot-9.png)| ![](https://github.com/ChBhargavKrishna/Online-Booking-System/blob/new-branch/Screenshots/Screenshot-10.png)|
+|  ![](https://github.com/ChBhargavKrishna/Online-Booking-System/blob/new-branch/Screenshots/Screenshot-8.png)| ![](https://github.com/ChBhargavKrishna/Online-Booking-System/blob/new-branch/Screenshots/Screenshot-9.png)| ![](https://github.com/ChBhargavKrishna/Online-Booking-System/blob/new-branch/Screenshots/Screenshot-10.png)|
 
 2. **🙋 User Module**
  - Users must first register and then log in with email and password credentials and have user profile that can be edited.
@@ -41,9 +41,9 @@ In this two modules are present They are
  - Best Services also mentioned and taking feedbacks and 24/7 contact support also available by the help page. 
     
      ## 📸 User Module Screenshots
-| ![](https://github.com/ChBhargavKrishna/Online-Booking-System/blob/new-branch/Screenshots/Screenshot-11.jpeg) | ![](https://github.com/ChBhargavKrishna/Online-Booking-System/blob/new-branch/Screenshots/Screenshot-12.png)| ![](https://github.com/ChBhargavKrishna/Online-Booking-System/blob/new-branch/Screenshots/Screenshot-13.png)| ![](https://github.com/ChBhargavKrishna/Online-Booking-System/blob/new-branch/Screenshots/Screenshot-14.png)|
+| ![](https://github.com/ChBhargavKrishna/Online-Booking-System/blob/new-branch/Screenshots/Screenshot-5.png) | ![](https://github.com/ChBhargavKrishna/Online-Booking-System/blob/new-branch/Screenshots/Screenshot-11.jpeg)| ![](https://github.com/ChBhargavKrishna/Online-Booking-System/blob/new-branch/Screenshots/Screenshot-12.png)| ![](https://github.com/ChBhargavKrishna/Online-Booking-System/blob/new-branch/Screenshots/Screenshot-13.png)|
 |--------------| --------------| --------------|  --------------|  
-|  ![](https://github.com/ChBhargavKrishna/Online-Booking-System/blob/new-branch/Screenshots/Screenshot-15.png)| ![](https://github.com/ChBhargavKrishna/Online-Booking-System/blob/new-branch/Screenshots/Screenshot-16.png)| ![](https://github.com/ChBhargavKrishna/Online-Booking-System/blob/new-branch/Screenshots/Screenshot-17.png)| 
+|  ![](https://github.com/ChBhargavKrishna/Online-Booking-System/blob/new-branch/Screenshots/Screenshot-14.png)| ![](https://github.com/ChBhargavKrishna/Online-Booking-System/blob/new-branch/Screenshots/Screenshot-15.png)| ![](https://github.com/ChBhargavKrishna/Online-Booking-System/blob/new-branch/Screenshots/Screenshot-16.png)| ![](https://github.com/ChBhargavKrishna/Online-Booking-System/blob/new-branch/Screenshots/Screenshot-17.png) |
 
 # 🚀 Get Started
 1. Download the project.  
